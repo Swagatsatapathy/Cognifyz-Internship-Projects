@@ -2,7 +2,9 @@
  Task 1: Top Cuisines Analysis
 Identified the top three most common cuisines in the dataset.
 Calculated the percentage of restaurants that serve each of the top cuisines.
-✅ Task 2: City Analysis
+
+
+Task 2: City Analysis
 Determined the city with the highest number of restaurants in the dataset.
 Calculated the average rating for restaurants in each city.
 Identified the city with the highest average rating to understand customer preferences.
